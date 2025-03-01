@@ -7,7 +7,7 @@ import Support from './components/Support'
 import About from './components/About'
 import NotFound from './components/NotFound' 
 import { Link } from 'react-router-dom';  
-import './index.css' 
+import './index.css'  
 import MainHeader from './components/MainHeader'      
 
 function App() { 
