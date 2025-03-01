@@ -16,7 +16,7 @@ function App() {
 
       <nav>
         <ul>
-         <li> <NavLink to="/">Home</NavLink> </li>
+         <li> <NavLink to="/">Home</NavLink> </li> 
          <li> <NavLink to="/Support">Support</NavLink></li>
          <li> <NavLink to="/Labs">Labs</NavLink></li>
          <li> <NavLink to="/About">About</NavLink></li>
