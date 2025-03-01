@@ -3,7 +3,7 @@ import './App.css';
 import { NavLink, Route,Routes } from 'react-router-dom';
 import Home from './components/Home'
 import Labs from './components/Labs'
-import Support from './components/Support'
+import Support from './components/Support' 
 import About from './components/About'
 import NotFound from './components/NotFound' 
 import { Link } from 'react-router-dom'; 
