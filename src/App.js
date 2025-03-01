@@ -11,7 +11,7 @@ import './index.css'
 import MainHeader from './components/MainHeader'      
 
 function App() { 
-  return ( 
+  return (  
     <div className="App">
 
       <nav>
