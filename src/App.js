@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 import './index.css'
 import MainHeader from './components/MainHeader'
 
-function App() {
+function App() { 
   return (
     <div className="App">
 
